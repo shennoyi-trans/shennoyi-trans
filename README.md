@@ -41,7 +41,7 @@
 - 相信 **结构性解释** 比情绪性结论更重要  
 - 对“现成答案”天然不信任，更关心它是**怎么被生成的**
 - 偏好把工程、哲学和现实问题揉在一起思考
-- 不太擅长做“看起来很热闹但没长线价值”的东西
+- 永远面向未来
 
 ---
 
@@ -51,7 +51,7 @@
 - 团队邮箱：WeiChenTeam@yeah.net  
 - 如果你也在做 **AI / 认知 / 非传统产品**，欢迎交流想法
 
-> “理解一个系统，首先要知道它在试图避免什么。”
+> “仿生人会梦见电子羊。”
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shennoyi-trans&show_icons=true)]
