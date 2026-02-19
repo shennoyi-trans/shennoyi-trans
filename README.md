@@ -31,8 +31,8 @@
 - 复杂系统、涌现与失稳
 
 **偶尔也会碰：**
-- vite / 前端原生三件套
-- Rust
+- Vite / Vue / TS
+- Rust / Tauri
 
 ---
 
