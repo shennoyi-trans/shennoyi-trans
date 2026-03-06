@@ -51,6 +51,3 @@
 - 如果你也在做 **AI / 认知 / 非传统产品**，欢迎交流想法
 
 > “仿生人会梦见电子羊。”
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shennoyi-trans&show_icons=true)]
