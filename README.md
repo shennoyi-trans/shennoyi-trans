@@ -31,7 +31,7 @@
 - 复杂系统、涌现与失稳
 
 **偶尔也会碰：**
-- Vite / Vue / TS
+- Vue / Vite / TS
 - Rust / Tauri
 
 ---
