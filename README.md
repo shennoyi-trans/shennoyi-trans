@@ -51,3 +51,9 @@
 - 如果你也在做 **AI / 认知 / 非传统产品**，欢迎交流想法
 
 > “仿生人会梦见电子羊。”
+
+---
+
+### 📊 GitHub 数据统计
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shennoyi-trans" alt="GitHub Streak" /></a>
