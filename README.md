@@ -58,4 +58,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shennoyi-trans&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
-[![shennoyi-trans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shennoyi-trans)](https://github.com/shennoyi-trans/github-readme-activity-graph)
+---
+
+[![shennoyi-trans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shennoyi-trans&theme=tokyo-night)](https://github.com/shennoyi-trans/github-readme-activity-graph)
